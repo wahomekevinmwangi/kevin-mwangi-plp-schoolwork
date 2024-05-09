@@ -1,0 +1,8 @@
+fname = input("first name")
+sname = input("second name")
+print(fname + sname)
+age = input("age")
+print("you are", age, "years old")
+location = input("what is your address")
+print("your location is", location)
+print("Hey", fname, "you are", age, "years old", "and live in", location)
